@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-10-13",
+    "description": "Challenge counter & metadata (auto-maintained)"
+  },
+  "counter": {
+    "total_challenges": 1,
+    "next_challenge_id": "0002"
+  },
+  "challenges": {
+    "0001": {
+      "id": "0001",
+      "title": "bit-counter",
+      "folder": "bit-counter",
+      "status": "planned",
+      "created": "2025-10-13"
+    }
+  }
+}
