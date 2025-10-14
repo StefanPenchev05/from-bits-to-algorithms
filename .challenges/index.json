@@ -5,16 +5,23 @@
     "description": "Challenge counter & metadata (auto-maintained)"
   },
   "counter": {
-    "total_challenges": 1,
-    "next_challenge_id": "0002"
+    "total_challenges": 2,
+    "next_challenge_id": "0003"
   },
   "challenges": {
     "0001": {
       "id": "0001",
       "title": "bit-counter",
-      "folder": "bit-counter",
-      "status": "planned",
+      "folder": "001-bit-counter",
+      "status": "complete",
       "created": "2025-10-13"
+    },
+    "0002": {
+      "id": "0002",
+      "title": "binary-adder",
+      "folder": "0002-binary-adder",
+      "status": "planned",
+      "created": "2025-10-14"
     }
   }
 }
