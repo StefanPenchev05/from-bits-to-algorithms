@@ -29,6 +29,6 @@ The goal is to count the number of 1-bits in an integer using **only logical and
 ### 💡 Example
 ```text
 Input:  13
-Binary: 1101
-Output: 3
+Binary: 000...1101
+Count of 1s: 3
 ```
